@@ -1,3 +1,4 @@
+# cekici
 
 ## Kısa 
 Yol Destek, harita destekli bir çekici randevu sistemidir. Hızlıca kurup çalıştırabilirsiniz; harita olarak Google Maps veya ücretsiz Leaflet+OSM kullanır, mesafe hesaplamada OSRM'den gerçek rota mesafesi alır.
@@ -21,4 +22,3 @@ Yol Destek, harita destekli bir çekici randevu sistemidir. Hızlıca kurup çal
 - Google Maps API anahtarı yoksa otomatik Leaflet + OSM + Nominatim çalışır.
 - Varsayılan OSRM: `https://router.project-osrm.org` (üretimde kendi OSRM sunucunuzu kurmanızı tavsiye ederim).
 - Fiyatı değiştirmek için `index.php` içindeki `PER_KM_RATE` ve `config/security.php`'deki fonksiyonu güncelleyin.
-
