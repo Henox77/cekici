@@ -1,6 +1,6 @@
 # cekici
 
-## Kısa 
+## 
 Yol Destek, harita destekli bir çekici randevu sistemidir. Hızlıca kurup çalıştırabilirsiniz; harita olarak Google Maps veya ücretsiz Leaflet+OSM kullanır, mesafe hesaplamada OSRM'den gerçek rota mesafesi alır.
 
 ## Öne çıkanlar
